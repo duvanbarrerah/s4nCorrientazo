@@ -1,0 +1,4 @@
+== Delivery report ==
+(2, -2) East direction
+(2, -1) East direction
+(4, 2) East direction

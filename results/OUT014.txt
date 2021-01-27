@@ -1,0 +1,4 @@
+== Delivery report ==
+(-2, 2) West direction
+(-1, 2) West direction
+(0, 2) West direction
